@@ -1,0 +1,15 @@
+.env/
+.venv/
+*.venv
+.vscode/
+*.vscode
+__.venv__/
+*__.venv__
+*.pyc
+__pycache__/
+migrations
+requirement.txt
+db.sqlite3
+*db.sqlite3
+db.sqlite3-journal
+media
